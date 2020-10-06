@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Turtle](https://imgs.mongabay.com/wp-content/uploads/sites/20/2018/12/21142928/adult_green-turtle2.jpg)
